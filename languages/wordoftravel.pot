@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-25 05:00+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wordoftravel-blogger.php:82
+msgid "Thank you your blow ownership has been confirmed."
+msgstr ""
+
+#: wordoftravel-blogger.php:130 wordoftravel-blogger.php:132
+msgid "Find more travel blogs like this on wordoftravel.com"
+msgstr ""
+
+#: partials/option-page.php:19
+msgid "Word Of Travel Blogger"
+msgstr ""
+
+#: partials/option-page.php:27
+msgid "Confirm ownership of your blog"
+msgstr ""
+
+#: partials/option-page.php:32
+msgid "Unique Code"
+msgstr ""
+
+#: partials/option-page.php:42
+msgid "Help Promote wordoftravel"
+msgstr ""
+
+#: partials/option-page.php:43
+msgid ""
+"Help us spread the word about wordoftravel by linking back to us from your "
+"blog home or posts. Select from the follow links and art to display."
+msgstr ""
+
+#: partials/option-page.php:48
+msgid "Type of link"
+msgstr ""
+
+#: partials/option-page.php:67
+msgid "Place to insert the Link"
+msgstr ""
+
+#: partials/option-page.php:71
+msgid "Choose One"
+msgstr ""
